@@ -39,4 +39,6 @@ Below are resources for datasets that will be useful for this project:
 
 3. [Ushahidi](https://www.ushahidi.com/) is a company that gained popularity for its crowdsourcing capabilites during the Kenyan election violence of 2008. They also hosted crisis mapping campaigns for Haiti's earthquake and a transparency watch for Macedonian corrpuption. They've grown as a company and may prove to be useful in my thesis research. 
 
+4. The [ACLED Early Warning Research Hub ](https://acleddata.com/early-warning-research-hub/#tools) is a useful website off of the ACLED main page. This could provide useful data for visualizing up-to-the-date information in the UI. 
+
 As more research is conducted, a better vision of where this project should probe will become more clear. Right now, these are just initial thoughts about the effectiveness and potentiality that these new technologies can take me. 
