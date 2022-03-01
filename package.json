@@ -1,0 +1,24 @@
+{
+  "name": "conflict-crisis-mapping-project",
+  "version": "1.0.0",
+  "description": "project for storing map files and routines for conflict map. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealCaddish/Conflict-Crisis-Mapping-Project.git"
+  },
+  "keywords": [
+    "crisis",
+    "map",
+    "conflict"
+  ],
+  "author": "Nathaniel R Deaton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealCaddish/Conflict-Crisis-Mapping-Project/issues"
+  },
+  "homepage": "https://github.com/RealCaddish/Conflict-Crisis-Mapping-Project#readme"
+}
